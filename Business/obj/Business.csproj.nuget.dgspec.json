@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\Business\\Business.csproj": {}
+    "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\Business\\Business.csproj": {
+    "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\Business\\Business.csproj",
+        "projectUniqueName": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\Business\\Business.csproj",
+        "projectPath": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\tecga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\Business\\obj\\",
+        "outputPath": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tecga\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj"
+              "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
+    "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\tecga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\DataAccess\\obj\\",
+        "outputPath": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tecga\\AppData\\Roaming\\NuGet\\NuGet.Config"

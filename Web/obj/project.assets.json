@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\Web\\Web.csproj",
+      "projectUniqueName": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\Web\\Web.csproj",
+      "projectPath": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\tecga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\Web\\obj\\",
+      "outputPath": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tecga\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,8 +69,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\tecga\\Desktop\\ToDoSolution_SV\\Business\\Business.csproj"
+            "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\Business\\Business.csproj": {
+              "projectPath": "D:\\forth-year\\second_term\\software\\practical\\ToDoSolution_SV\\Business\\Business.csproj"
             }
           }
         }

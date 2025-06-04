@@ -9,3 +9,15 @@ C:\Users\tecga\Desktop\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.dl
 C:\Users\tecga\Desktop\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
 C:\Users\tecga\Desktop\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.pdb
 C:\Users\tecga\Desktop\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\bin\Debug\net9.0\DataAccess.dll
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.sourcelink.json
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.dll
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+D:\forth-year\second_term\software\practical\ToDoSolution_SV\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
